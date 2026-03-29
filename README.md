@@ -32,13 +32,7 @@ The objective of this project is to analyze employee attrition and identify key 
 - Male attrition is slightly higher than female  
 - Life Sciences education background has highest attrition  
 
-## 📷 Dashboard Preview
-(Add your dashboard image here)
 
-## 📁 Files Included
-- HR Analytics Dashboard.pbix  
-- dataset.xlsx  
-- dashboard.png  
 
 ## 🚀 Conclusion
 This dashboard helps HR teams identify patterns in employee attrition and supports data-driven decision-making to improve retention.
